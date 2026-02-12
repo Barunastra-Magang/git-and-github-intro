@@ -1,6 +1,6 @@
 # Git and Github Introduction
 
-| Nama  | Division        | Sub-Division  |
+| Name  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
 | Name here   | ELC/PGR | Sub-div |
 
